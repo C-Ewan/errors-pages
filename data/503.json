@@ -1,0 +1,6 @@
+{
+    "code": 503,
+    "code_phrase": "Service Unavailable",
+    "description": "The server is not ready to handle the request, usually due to maintenance or overload.",
+    "language": "en"
+}

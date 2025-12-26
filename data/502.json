@@ -1,0 +1,6 @@
+{
+    "code": 502,
+    "code_phrase": "Bad Gateway",
+    "description": "The server received an invalid response from an upstream server.",
+    "language": "en"
+}

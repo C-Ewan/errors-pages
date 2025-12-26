@@ -1,0 +1,6 @@
+{
+    "code": 401,
+    "code_phrase": "Unauthorized",
+    "description": "Authentication is required and has failed or not been provided.",
+    "language": "en"
+}

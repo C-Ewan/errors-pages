@@ -1,0 +1,6 @@
+{
+    "code": 404,
+    "code_phrase": "Not Found",
+    "description": "The requested resource could not be found on this server.",
+    "language": "en"
+}

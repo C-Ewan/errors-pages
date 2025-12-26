@@ -1,0 +1,6 @@
+{
+    "code": 400,
+    "code_phrase": "Bad Request",
+    "description": "The server could not understand the request due to invalid syntax.",
+    "language": "en"
+}

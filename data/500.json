@@ -1,0 +1,6 @@
+{
+    "code": 500,
+    "code_phrase": "Internal Server Error",
+    "description": "An unexpected error occurred on the server. Our team has been notified and we are working to resolve it as soon as possible.",
+    "language": "en"
+}
